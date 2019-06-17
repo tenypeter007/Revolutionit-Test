@@ -1,8 +1,8 @@
 ## Run the porject
 
 Provide the comment 
- mvn clean test
+*  mvn clean test
 
 ## Reports
 
-Reports are generated in outputs folder
+Reports are generated in outputs folder after execution is completed 
