@@ -1,7 +1,7 @@
-# Run the porject
+## Run the porject
 
 Provide the comment mvn clean test
 
-#Reports
+## Reports
 
 Reports are generated in outputs folder
